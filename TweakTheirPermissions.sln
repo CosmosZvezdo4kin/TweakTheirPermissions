@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweakTheirPermissions", "TweakTheirPermissions.csproj", "{0684B442-156F-4DDB-AA2B-4772DADBE939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0684B442-156F-4DDB-AA2B-4772DADBE939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0684B442-156F-4DDB-AA2B-4772DADBE939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0684B442-156F-4DDB-AA2B-4772DADBE939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0684B442-156F-4DDB-AA2B-4772DADBE939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
