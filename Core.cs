@@ -11,12 +11,12 @@ public class Core : Plugin
     public override string Name => "TweakTheirPermissions";
 
     public override string Description => "Tweaks default LabAPI permissions provider (changes the way the player's group is defined)";
-
+    
     public override string Author => "CosmosZvezdochkin";
 
     public override Version Version => new(1, 0, 0);
 
-    public override Version RequiredApiVersion => new(1, 0, 2);
+    public override Version RequiredApiVersion => new(1, 1, 1);
     private Harmony _harmony;
     
     public override void Enable()
